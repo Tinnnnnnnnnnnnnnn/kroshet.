@@ -1,11 +1,4 @@
 
-<html lang="en">
-<head>
-   <meta charset="UTF-8">
-   <meta name="viewport" content="width=device-width,initial-scale=0.1">
-
-</head>
-<body>
 
 <header style="background-color: hsl(215, 44%, 89%);">
       <h1 style="font-size: 500%;">KroShet<span>.</span></h1>
