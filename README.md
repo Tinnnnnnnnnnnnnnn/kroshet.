@@ -1,4 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width,initial-scale=0.1">
+   <title>KroShet</title>
 
+<link href="style2.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.2/css/fontawesome.min.css">
+<script src="https://kit.fontawesome.com/92d70a2fd8.js" crossorigin="anonymous"></script>
+
+</head>
+<body>
 
 <header style="background-color: hsl(215, 44%, 89%);">
       <h1 style="font-size: 500%;">KroShet<span>.</span></h1>
